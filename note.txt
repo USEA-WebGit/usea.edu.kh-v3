@@ -1,0 +1,2 @@
+/install tailwind
+npx nuxi@latest module add tailwindcss
